@@ -1,0 +1,13 @@
+model,reward,seed,mode,mean,std,landed,crashed,timeout,frames
+ppo_default_s0,default,0,test,263.18,33.53,19,0,1,332.7
+ppo_default_s0,default,0,explore,217.21,89.02,14,4,2,546.7
+ppo_time_penalty_s0,time_penalty,0,test,258.81,19.59,20,0,0,356.7
+ppo_time_penalty_s0,time_penalty,0,explore,258.65,57.36,19,1,0,319.8
+ppo_hover_bonus_s0,hover_bonus,0,test,250.9,21.13,20,0,0,362.05
+ppo_hover_bonus_s0,hover_bonus,0,explore,140.98,46.24,0,3,17,880.0
+ppo_hover_bonus_s1,hover_bonus,1,test,247.65,33.93,19,0,1,359.9
+ppo_hover_bonus_s1,hover_bonus,1,explore,130.46,83.81,0,2,18,915.95
+ppo_hover_fix_s0,hover_fix,0,test,264.34,20.24,20,0,0,326.3
+ppo_hover_fix_s0,hover_fix,0,explore,218.53,101.49,15,5,0,271.4
+ppo_hover_fix_s1,hover_fix,1,test,264.52,20.16,20,0,0,321.1
+ppo_hover_fix_s1,hover_fix,1,explore,249.63,62.37,18,2,0,277.2

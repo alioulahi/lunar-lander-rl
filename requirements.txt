@@ -1,0 +1,9 @@
+# Install swig FIRST (Box2D needs it to build):  pip install swig
+swig==4.5.1
+gymnasium[box2d]==1.4.0
+stable-baselines3==2.9.2
+torch==2.15.0
+moviepy==2.2.1
+matplotlib==3.11.2
+tqdm==4.70.1
+rich==15.0.0

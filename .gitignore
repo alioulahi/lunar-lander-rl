@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# generated: recordings from watch.py --record and training logs
+videos/
+logs/
